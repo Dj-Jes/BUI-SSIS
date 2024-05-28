@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-H0V7JUG_DOWSQL2019"
+  DTS:DTSID="{D7D268AF-398E-4C36-A0EC-543486E59154}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-H0V7JUG\DOWSQL2019;Initial Catalog=WideWorldImportersDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-SSIS-{D7D268AF-398E-4C36-A0EC-543486E59154}DESKTOP-H0V7JUG\DOWSQL2019;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
